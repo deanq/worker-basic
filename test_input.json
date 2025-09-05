@@ -1,6 +1,7 @@
 {
     "input": {
         "prompt": "John Doe",
-        "seconds": 15
+        "seconds": 15,
+        "loop_count": 5
     }
 }
